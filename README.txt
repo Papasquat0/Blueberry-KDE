@@ -1,4 +1,4 @@
-Saw /u/RevolutionaryCall769's Hyprland rice on here and tried to make it work in KDE (https://www.reddit.com/r/unixporn/comments/1gdnfs0/hyprland_blueberry_color_theme_hyprpanel_sidebar/)
+Saw /u/RevolutionaryCall769's Hyprland rice and tried to make it work in KDE (https://www.reddit.com/r/unixporn/comments/1gdnfs0/hyprland_blueberry_color_theme_hyprpanel_sidebar/)
 
 
 Firefox Theme: Blueberry - https://addons.mozilla.org/en-US/firefox/addon/blueberrybase16/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
